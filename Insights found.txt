@@ -1,0 +1,13 @@
+-
+
+- **Men seem to be more susceptible to heart disease than women.
+Increase in Age,number of cigarettes smoked per day and systolic Blood Pressure also show increasing odds of having heart disease.**
+
+- **Total cholesterol shows no significant change in the odds of CHD. 
+This could be due to the presence of 'good cholesterol(HDL) in the total cholesterol reading.**
+
+- **The model predicted with 0.88 accuracy. The model is more specific than sensitive.**
+
+- **The Area under the ROC curve is 73.5 which is somewhat satisfactory. **
+
+- ** Overall model could be improved with more data.**
